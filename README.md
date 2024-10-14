@@ -1,1 +1,1 @@
-This library is not that useful. Perhaps someday it will become great.
+This is the first version of Anomaly Detection Library. 
