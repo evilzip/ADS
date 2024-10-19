@@ -1,10 +1,13 @@
-Welcome to ADSoft library. 
-To install our Lib:
-### pip install ADSoft
+# Welcome to ADSoft library. 
 
 ADSoft was designed to help all people with analyzing timeseries data and anomaly detection.
 
-Versions history:
+
+
+## To install our Lib:
+ pip install ADSoft
+
+## Versions history:
 
 v 0.0.1
 * added simple functionality
