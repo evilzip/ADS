@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ADS"
-version = "0.0.1"
+name = "ADSoft"
+version = "0.0.4"
 authors = [
  { name="", email="ode15s@yandex.ru" },
 ]
@@ -17,6 +17,3 @@ classifiers = [
    "Operating System :: OS Independent",
 ]
 
-[project.urls]
-Homepage = ""
-Issues = ""
